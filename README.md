@@ -1,12 +1,12 @@
  🌐 Digital Literacy Project
 
- 👩‍💻 About Me
+About Me
 Hello! I am Ayushi Sharma, a first-year B.Tech student at VIT Bhopal University, pursuing Computer Science and Engineering with a specialization in Cyber Security and Digital Forensics.
 I am interested in learning technology, cyber security, and building digital skills. This project is part of my Digital Literacy course, where I explored various tools and platforms to improve my digital knowledge and professional presence.
 
 
 
-📚 Project Overview
+ Project Overview
 This repository contains my Digital Literacy Portfolio. The project focuses on developing essential digital skills such as online safety, professional communication, and building a strong digital presence.
 
 
